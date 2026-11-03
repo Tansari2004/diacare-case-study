@@ -82,3 +82,7 @@ DiaCare was shaped by feedback from patients and healthcare professionals. RIWAQ
 ## Rights
 
 Copyright © 2026 Tarik Alansari and RIWAQ For Software LLC. All rights reserved. See [LICENSE](LICENSE).
+
+## Food-photo workflow evaluation
+
+A [public evaluation kit](food-workflow/README.md) now reserves image identities and accepted catalogue/serving labels, checks recorded photo-to-save traces, and compares providers on the same task. It records failures, corrections and separate startup/upload/inference/workflow timing. Its tests use fabricated fixtures; fresh-photo and actual-device evaluation remain pending. The historical ranking experiment is not replaced by a new end-to-end accuracy claim.
